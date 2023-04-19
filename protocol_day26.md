@@ -85,7 +85,7 @@ We have started the last round of our Coding Challenge with the same Teams as be
 ## <span style="color:grey"> __Miscellaneous__
 
 ---
-- Nico recommends us to not use global variables .. at all .. yet again :)
+- Nico recommends to not use global variables .. at all .. yet again :)
 - [colorama](https://pypi.org/project/colorama/): Tutorial for the built-in Python module to display the text in different colors
 - [pandas library](https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/): Panday Library Tutorial for starters
 - [global values](https://www.youtube.com/watch?v=UEuXQjPUwcw): Nice Video why or why not to use global keys
