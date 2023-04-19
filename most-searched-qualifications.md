@@ -1,0 +1,42 @@
+# DEGREE
+informatik 1
+any degree 1
+math 
+
+
+# BI Tools
+tableau 3, PowerBI
+
+# computing languages / Software
+SQL 4
+Python 3
+Excel 2
+
+
+# Softkskills
+Good communication skills
+afinity to numbers and database 
+teamwork
+power mentality
+not afraid of learning new languages (programming)
+
+# Languages 
+good german 2
+Excellent English 1
+
+# Advantages 
+exp in java
+
+Clear Descriptions 4
+Failed in Descriptions 0
+
+
+
+# Links
+
+https://de.indeed.com/jobs?q=Data+Analyst&l=&from=searchOnHP&vjk=b7dd53ecbc73926a
+
+https://de.indeed.com/viewjob?jk=57ebbb751da8f553&q=Data+Analyst&tk=1grvaoe4hjl3l804&from=web&advn=1214570880615636&adid=408310824&ad=-6NYlbfkN0DGuppPrFfp2gxhiCWo_I_aslwlKMuCG10DzNuX1Ndhw9qKZCnBM5IvYGxOqrMcKBXwnox7BXvnHoRgf9G3JMOPkPlNPo9P4_OdfUgA-uAsepMWR4vcQh-9fIZ8LfUYDdZOe-Os54o3z23q8OcmrzJo3wsjnymHS70QLHlPKWTYC-h-4yg44QbYqWrqoNnKEu1U-pWOIL7dYZdPn1G4QgW93LBae5lzTjSv0zc7dU6VE_Fi1uhOzCLN4Bq6VsPllM1xulJ924NcdslhcZY62NnUuh3tSqPEeRELSBNvoiNSrUmH9uMX3u1ibREra8h-A6SsLS0I5t7XRiC7aHGI_5TV5QaEudfvq0R4xrz565FJ41eTY5K0U3hOuqiNaLird0B-IbQo6TNnk_jH9Pw6rrelHVd-2POlvCCuWLMNQmEn5A%3D%3D&sjdu=I2o5YH7uU5Mp1fWSrmA5HT5uacKnFVwFIQAVvTG5zhkykhRpnJ_evPvUlsBRpJQEYxF1YgwrXR0UFMa5a1P2887MC60fx3oieXQZCmhGD28&acatk=1grvbgb6gissg800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoBN-_M3S_duEmR9BR0LbzkdCdPP&vjs=3
+
+https://de.indeed.com/viewjob?jk=99b2a9176e982e32&tk=1grvbgde7i922800&from=serp&vjs=3&advn=4757900174112510&adid=403954365&ad=-6NYlbfkN0BH1pUVfKiUNra4-LTcQIEPguikTMn7zYHdKDZyfPL36UWh8sVdpSFjh5h1B6L-FdAtDwoTJcVz_3yO-lbUrNyPKNfgHVAw79rYMizlxihSI2qZdWRLaLynhwst3j0SymD0NRR8ZQVUy3kuxJhPHdEbWTakC41pxB-Trd5BdmCtiQ23Kyi4CjXElTy_eWsCGtLySPM3aQeK1xWnXCKgW6-kX_Af4VUXUhE48Z5akA07PH2giqMQ0My_mfoWKA89D6YxvXRfzYwX6T_VdL82IndpwOIGO_qqoRcB1MY9RhZfVDeU3bKqBQM3kImCpjh_VEGmPdPBRo-YJgFXHTR5qojrBOdLZNuk3pV3Jv1Qty2jU_NUeMBWD_VWIvt9KLKRCzto-BOZDzjMdNMQiXicdyUHsW4ddXsf0LGQ3dLzZFnyBw33n3WOePDx4n2d-m-xpcE=&xkcb=SoC8-_M3S_duEmx9BR0KbzkdCdPP&sjdu=2LHwMAfKPrs9mdX4imaLAxnaVtW26-mprJQm3cBsBUwdduNYoseY5tq46C2HBAfqKPI9H08Sn4_gwy2mZxxN9ehI5_STQ46KA7Lwt59kzkhtFcXk6A8fDd34j5o-q0pHuIj4yp6boH1eFRf9YmF9qg
+
