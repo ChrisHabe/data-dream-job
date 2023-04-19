@@ -20,7 +20,7 @@
 
 ---
 ---
-##  <span style="color:grey"> __Final Round in our Tic-Tac-Toe-Coding-Challenge__ </span>
+##  <span style="color:grey"> __Final Round of our Tic-Tac-Toe-Coding-Challenge__ </span>
 
 <br>
 
