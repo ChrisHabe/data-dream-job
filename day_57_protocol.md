@@ -72,7 +72,7 @@ $y_i = b_0 + b_1 x_i + e_i$
 
 ---
   
-## __3. scikit__
+## __3. Scikit__
 
 ![Cheat Sheet scikit](images/scikit_cheat_sheet.jpg)
   
